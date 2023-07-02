@@ -8,7 +8,7 @@ This application can be used for your personal computer, especially the computer
 # How to Use this Application
 first of all you install this shutdown application on your computer in the following way:
 
-1. Download the file shutdown-timerv1.0_setup.exe
+1. Download the file https://github.com/fajarjulyana/timer-shutdown/blob/main/setup/shutdown-timerv1.0_setup.exe
 2. Run shutdown-timerv1.0_setup.exe
 3. Press the Next Button
    <img src="capture/setup-1.JPG"><br>
