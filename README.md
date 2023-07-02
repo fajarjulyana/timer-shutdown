@@ -24,8 +24,10 @@ first of all you install this shutdown application on your computer in the follo
 Here are the steps for using the Shutdown Timer application:
 
 1. Run the Shutdown Timer application.
+ <img src="capture/capture.JPG"><br>  
 2. In the "Delay Time" input box, enter the amount of time delayed in seconds.
 3. Check the "Start at Startup" box if you want the application to automatically start on Windows startup.
+   <img src="capture/startup.JPG"><br>
 4. Click the "Start Shutdown" button.
 5. A confirmation message will appear that the shutdown will begin.
 6. Wait until the delayed time is over, and the computer will shutdown.
