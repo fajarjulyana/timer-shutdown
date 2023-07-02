@@ -6,6 +6,15 @@ This application functions as a computer shutdown timer on Windows based operati
 This application can be used for your personal computer, especially the computer used by your child so that your child does not over time play games on the computer 
 
 # How to Use this Application
+first of all you install this shutdown application on your computer in the following way:
+
+1. Download the file shutdown-timerv1.0_setup.exe
+2. Run shutdown-timerv1.0_setup.exe
+3. Press the Next Button
+4. Select the storage location you want or immediately press the Next button
+5. If you want to add a shortcut on the desktop, tick the desktop shortcut, if it's not slim, press the Next button
+6. Check whether the installation location is according to your wishes after pressing the install button accordingly
+7. If you want to run the application immediately, check the launch shutdown timer, if not, uncheck and press finish, the installation is complete
 Here are the steps for using the Shutdown Timer application:
 
 1. Run the Shutdown Timer application.
