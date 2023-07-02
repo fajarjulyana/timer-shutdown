@@ -11,10 +11,16 @@ first of all you install this shutdown application on your computer in the follo
 1. Download the file shutdown-timerv1.0_setup.exe
 2. Run shutdown-timerv1.0_setup.exe
 3. Press the Next Button
+   <img src="capture/setup-1"><br>
 4. Select the storage location you want or immediately press the Next button
-5. If you want to add a shortcut on the desktop, tick the desktop shortcut, if it's not slim, press the Next button
-6. Check whether the installation location is according to your wishes after pressing the install button accordingly
-7. If you want to run the application immediately, check the launch shutdown timer, if not, uncheck and press finish, the installation is complete
+   <img src="capture/setup-2"><br>
+6. If you want to add a shortcut on the desktop, tick the desktop shortcut, if it's not slim, press the Next button
+   <img src="capture/setup-3"><br>
+7. Check whether the installation location is according to your wishes after pressing the install button accordingly
+   <img src="capture/setup-4"><br>
+8. If you want to run the application immediately, check the launch shutdown timer, if not, uncheck and press finish, the installation is complete
+<img src="capture/setup-5"><br>
+
 Here are the steps for using the Shutdown Timer application:
 
 1. Run the Shutdown Timer application.
